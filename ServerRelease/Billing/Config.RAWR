@@ -1,0 +1,15 @@
+[CashServer]
+Address=25.11.248.206
+Port=8888
+Connector=25.11.248.206
+; #on,off
+Logs=on
+
+[DataBase]
+Address=127.0.0.1
+UserName=test
+Password=123
+logDB=ep4_db_auth
+DB_Data=ep4_data
+DB_Auth=ep4_db_auth
+DB_DB= ep4_db_auth

@@ -1,0 +1,1000 @@
+2024-05-25 05:26:03,005 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:26:03,005 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 05:26:03,005 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:26:03,005 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:26:03,021 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 05:26:03,021 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 05:26:04,615 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 05:26:04,615 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 05:26:04,615 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 50401, fd: 696, handle: CCCCCC00
+2024-05-25 05:26:04,615 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000002
+2024-05-25 05:26:04,615 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 56, period_sec: 60
+2024-05-25 05:26:04,615 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2036, period_sec: 3600
+2024-05-25 05:26:04,615 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 05:26:04,615 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 05:26:04,615 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 56, period_sec: 60
+2024-05-25 05:26:04,615 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 05:26:04,615 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:26:04,615 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:26:04,615 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 127.0.0.1 : unique id : 0000000002
+2024-05-25 05:26:04,615 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:26:04,615 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 05:26:04,615 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:26:04,615 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 05:46:27,625 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:46:27,625 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 05:46:27,625 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:46:27,626 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:46:27,632 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 05:46:27,632 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 05:46:29,793 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 05:46:29,793 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 05:46:29,793 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 05:46:29,793 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000001
+2024-05-25 05:46:29,793 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 31, period_sec: 60
+2024-05-25 05:46:29,793 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 811, period_sec: 3600
+2024-05-25 05:46:29,793 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 05:46:29,793 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 05:46:29,793 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 31, period_sec: 60
+2024-05-25 05:46:29,793 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 05:46:29,793 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:46:29,793 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:46:29,793 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:46:29,793 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:46:29,793 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 05:46:30,828 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 05:46:30,828 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 05:46:30,828 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:46:30,828 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 05:46:30,828 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:46:54,219 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:46:54,219 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 05:46:54,219 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:46:54,219 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:46:54,234 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 05:46:54,234 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 05:46:56,344 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 05:46:56,344 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 05:46:56,344 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 05:46:56,344 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000001
+2024-05-25 05:46:56,344 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 4, period_sec: 60
+2024-05-25 05:46:56,344 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 784, period_sec: 3600
+2024-05-25 05:46:56,344 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 05:46:56,344 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 05:46:56,344 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 4, period_sec: 60
+2024-05-25 05:46:56,344 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 05:46:56,344 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:46:56,344 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:46:56,344 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:46:56,344 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:46:56,344 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 05:46:57,375 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 05:46:57,375 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 05:46:57,375 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:46:57,375 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 05:46:57,375 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:47:10,247 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:47:10,247 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 05:47:10,247 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:47:10,263 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:47:10,278 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 05:47:10,278 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 05:47:12,200 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 05:47:12,200 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 05:47:12,200 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 05:47:12,200 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000001
+2024-05-25 05:47:12,200 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 48, period_sec: 60
+2024-05-25 05:47:12,200 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 768, period_sec: 3600
+2024-05-25 05:47:12,200 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 05:47:12,200 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 05:47:12,200 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 48, period_sec: 60
+2024-05-25 05:47:12,200 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 05:47:12,200 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:47:12,200 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:47:12,200 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:47:12,200 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:47:12,200 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 05:47:13,224 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 05:47:13,224 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 05:47:13,224 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:47:13,224 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 05:47:13,224 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:47:32,020 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:47:32,020 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 05:47:32,020 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:47:32,020 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:47:32,051 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 05:47:32,051 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 05:47:33,890 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 05:47:33,890 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 05:47:33,890 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 05:47:33,890 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000001
+2024-05-25 05:47:33,890 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 27, period_sec: 60
+2024-05-25 05:47:33,890 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 747, period_sec: 3600
+2024-05-25 05:47:33,890 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 05:47:33,890 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 05:47:33,890 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 27, period_sec: 60
+2024-05-25 05:47:33,890 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 05:47:33,890 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:47:33,890 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:47:33,890 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:47:33,890 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:47:33,890 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 05:47:34,913 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 05:47:34,913 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 05:47:34,913 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:47:34,913 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 05:47:34,913 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:47:44,919 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000006
+2024-05-25 05:47:44,919 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000002
+2024-05-25 05:47:45,951 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000002 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 05:47:45,951 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000002
+2024-05-25 05:47:45,951 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:47:45,951 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000007, start_msec: 10000, period_msec: 10000
+2024-05-25 05:47:45,951 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:47:55,956 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000007
+2024-05-25 05:47:55,956 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000003
+2024-05-25 05:47:56,959 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000003 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 05:47:56,959 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000003
+2024-05-25 05:47:56,959 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:47:56,959 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000008, start_msec: 10000, period_msec: 10000
+2024-05-25 05:47:56,959 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 05:48:38,945 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:48:38,945 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 05:48:38,945 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:48:38,945 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:48:38,960 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 05:48:38,960 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 05:48:40,494 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 05:48:40,494 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 05:48:40,494 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 50401, fd: 696, handle: CCCCCC00
+2024-05-25 05:48:40,494 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000002
+2024-05-25 05:48:40,494 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 20, period_sec: 60
+2024-05-25 05:48:40,494 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 680, period_sec: 3600
+2024-05-25 05:48:40,494 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 05:48:40,494 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 05:48:40,494 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 20, period_sec: 60
+2024-05-25 05:48:40,494 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 05:48:40,494 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:48:40,494 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:48:40,494 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 127.0.0.1 : unique id : 0000000002
+2024-05-25 05:48:40,494 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:48:40,494 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:48:40,494 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 05:48:40,494 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 05:49:52,724 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:49:52,725 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 05:49:52,725 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:49:52,725 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:49:52,726 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 05:49:52,726 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 05:49:54,224 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 05:49:54,224 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 05:49:54,224 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 50401, fd: 704, handle: CCCCCC00
+2024-05-25 05:49:54,224 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000002
+2024-05-25 05:49:54,224 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 6, period_sec: 60
+2024-05-25 05:49:54,224 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 606, period_sec: 3600
+2024-05-25 05:49:54,224 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 05:49:54,224 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 05:49:54,224 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 6, period_sec: 60
+2024-05-25 05:49:54,224 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 05:49:54,224 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:49:54,224 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:49:54,224 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 127.0.0.1 : unique id : 0000000002
+2024-05-25 05:49:54,224 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:49:54,224 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 05:49:54,224 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:49:54,224 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:11:40,274 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:11:40,274 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 06:11:40,274 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:11:40,274 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:11:40,294 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 06:11:40,294 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 06:11:41,831 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 06:11:41,831 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 06:11:41,831 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 06:11:41,831 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000001
+2024-05-25 06:11:41,831 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 19, period_sec: 60
+2024-05-25 06:11:41,831 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2899, period_sec: 3600
+2024-05-25 06:11:41,831 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 06:11:41,831 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 06:11:41,831 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 19, period_sec: 60
+2024-05-25 06:11:41,831 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 06:11:41,831 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:11:41,831 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:11:41,831 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:11:41,831 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:11:41,831 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:11:42,858 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:11:42,858 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 06:11:42,858 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:11:42,858 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 06:11:42,858 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:11:52,861 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000006
+2024-05-25 06:11:52,861 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000002
+2024-05-25 06:11:53,873 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000002 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:11:53,873 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000002
+2024-05-25 06:11:53,873 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:11:53,873 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000007, start_msec: 10000, period_msec: 10000
+2024-05-25 06:11:53,873 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:12:03,885 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000007
+2024-05-25 06:12:03,885 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000003
+2024-05-25 06:12:04,888 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000003 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:12:04,888 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000003
+2024-05-25 06:12:04,888 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:12:04,888 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000008, start_msec: 10000, period_msec: 10000
+2024-05-25 06:12:04,888 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:12:32,618 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:12:32,618 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 06:12:32,618 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:12:32,618 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:12:32,618 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 06:12:32,618 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 06:12:34,145 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 06:12:34,145 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 06:12:34,145 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 06:12:34,145 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000001
+2024-05-25 06:12:34,145 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 26, period_sec: 60
+2024-05-25 06:12:34,145 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2846, period_sec: 3600
+2024-05-25 06:12:34,145 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 06:12:34,145 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 06:12:34,145 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 26, period_sec: 60
+2024-05-25 06:12:34,145 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 06:12:34,145 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:12:34,145 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:12:34,145 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:12:34,145 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:12:34,145 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:12:35,161 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:12:35,161 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 06:12:35,161 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:12:35,161 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 06:12:35,161 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:12:45,165 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000006
+2024-05-25 06:12:45,165 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000002
+2024-05-25 06:12:46,176 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000002 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:12:46,176 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000002
+2024-05-25 06:12:46,176 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:12:46,176 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000007, start_msec: 10000, period_msec: 10000
+2024-05-25 06:12:46,176 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:13:07,322 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:13:07,322 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 06:13:07,322 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:13:07,322 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:13:07,338 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 06:13:07,338 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 06:13:08,884 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 06:13:08,884 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 06:13:08,884 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 06:13:08,884 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000001
+2024-05-25 06:13:08,884 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 52, period_sec: 60
+2024-05-25 06:13:08,884 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2812, period_sec: 3600
+2024-05-25 06:13:08,884 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 06:13:08,884 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 06:13:08,884 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 52, period_sec: 60
+2024-05-25 06:13:08,884 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 06:13:08,884 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:13:08,884 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:13:08,884 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:13:08,884 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:13:08,884 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:13:09,909 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:13:09,909 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 06:13:09,909 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:13:09,909 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 06:13:09,909 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:14:38,499 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:14:38,499 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 06:14:38,499 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:14:38,499 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:14:38,515 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 06:14:38,515 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 06:14:40,053 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 06:14:40,053 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 06:14:40,053 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 06:14:40,053 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000001
+2024-05-25 06:14:40,053 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 20, period_sec: 60
+2024-05-25 06:14:40,053 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2720, period_sec: 3600
+2024-05-25 06:14:40,053 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 06:14:40,053 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 06:14:40,053 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 20, period_sec: 60
+2024-05-25 06:14:40,053 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 06:14:40,053 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:14:40,053 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:14:40,053 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:14:40,053 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:14:40,053 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:14:41,057 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:14:41,057 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 06:14:41,057 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:14:41,057 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 06:14:41,057 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:14:51,070 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000006
+2024-05-25 06:14:51,070 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000002
+2024-05-25 06:14:52,085 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000002 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:14:52,085 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000002
+2024-05-25 06:14:52,085 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:14:52,085 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000007, start_msec: 10000, period_msec: 10000
+2024-05-25 06:14:52,085 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:15:02,087 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000007
+2024-05-25 06:15:02,087 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000003
+2024-05-25 06:15:03,103 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000003 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:15:03,103 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000003
+2024-05-25 06:15:03,103 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:15:03,103 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000008, start_msec: 10000, period_msec: 10000
+2024-05-25 06:15:03,103 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:15:13,109 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000008
+2024-05-25 06:15:13,109 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000004
+2024-05-25 06:15:14,135 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000004 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:15:14,135 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000004
+2024-05-25 06:15:14,135 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:15:14,135 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000009, start_msec: 10000, period_msec: 10000
+2024-05-25 06:15:14,135 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 06:15:21,218 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:15:21,218 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 06:15:21,218 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:15:21,218 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:15:21,218 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 06:15:21,218 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 06:15:22,732 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 06:15:22,732 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 06:15:22,732 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 06:15:22,732 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000001
+2024-05-25 06:15:22,732 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 38, period_sec: 60
+2024-05-25 06:15:22,732 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2678, period_sec: 3600
+2024-05-25 06:15:22,732 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 06:15:22,732 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 06:15:22,732 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 38, period_sec: 60
+2024-05-25 06:15:22,732 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 06:15:22,732 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:15:22,732 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:15:22,732 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:15:22,732 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:15:22,732 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:15:23,761 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:15:23,761 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 06:15:23,761 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:15:23,761 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 06:15:23,761 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:15:33,770 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000006
+2024-05-25 06:15:33,770 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000002
+2024-05-25 06:15:34,800 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000002 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:15:34,800 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000002
+2024-05-25 06:15:34,800 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:15:34,800 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000007, start_msec: 10000, period_msec: 10000
+2024-05-25 06:15:34,800 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:15:44,805 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000007
+2024-05-25 06:15:44,805 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000003
+2024-05-25 06:15:45,836 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000003 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:15:45,836 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000003
+2024-05-25 06:15:45,836 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:15:45,836 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000008, start_msec: 10000, period_msec: 10000
+2024-05-25 06:15:45,836 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:15:52,310 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:15:52,310 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 06:15:52,310 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:15:52,310 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:15:52,313 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 06:15:52,313 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 06:15:53,881 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 06:15:53,881 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 06:15:53,881 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 06:15:53,897 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000001
+2024-05-25 06:15:53,897 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 7, period_sec: 60
+2024-05-25 06:15:53,897 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2647, period_sec: 3600
+2024-05-25 06:15:53,897 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 06:15:53,897 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 06:15:53,897 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 7, period_sec: 60
+2024-05-25 06:15:53,897 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 06:15:53,897 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:15:53,897 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:15:53,897 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:15:53,897 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:15:53,897 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:15:54,944 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:15:54,944 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 06:15:54,944 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:15:54,944 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 06:15:54,944 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:04,949 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000006
+2024-05-25 06:16:04,949 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000002
+2024-05-25 06:16:05,981 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000002 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:16:05,981 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000002
+2024-05-25 06:16:05,981 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:05,981 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000007, start_msec: 10000, period_msec: 10000
+2024-05-25 06:16:05,981 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:15,987 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000007
+2024-05-25 06:16:15,987 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000003
+2024-05-25 06:16:17,018 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000003 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:16:17,018 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000003
+2024-05-25 06:16:17,018 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:17,018 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000008, start_msec: 10000, period_msec: 10000
+2024-05-25 06:16:17,018 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:27,019 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000008
+2024-05-25 06:16:27,019 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000004
+2024-05-25 06:16:28,046 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000004 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:16:28,046 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000004
+2024-05-25 06:16:28,046 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:28,046 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000009, start_msec: 10000, period_msec: 10000
+2024-05-25 06:16:28,046 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:38,051 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000009
+2024-05-25 06:16:38,051 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000005
+2024-05-25 06:16:39,076 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000005 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:16:39,076 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000005
+2024-05-25 06:16:39,076 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:39,076 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 200000A, start_msec: 10000, period_msec: 10000
+2024-05-25 06:16:39,076 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:49,078 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 200000A
+2024-05-25 06:16:49,078 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000006
+2024-05-25 06:16:50,112 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000006 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:16:50,112 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000006
+2024-05-25 06:16:50,112 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:50,112 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 200000B, start_msec: 10000, period_msec: 10000
+2024-05-25 06:16:50,112 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:16:59,750 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:16:59,750 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 06:16:59,750 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:16:59,750 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:16:59,766 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 06:16:59,766 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 06:17:01,345 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 06:17:01,345 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 06:17:01,345 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 06:17:01,345 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000001
+2024-05-25 06:17:01,345 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 59, period_sec: 60
+2024-05-25 06:17:01,345 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2579, period_sec: 3600
+2024-05-25 06:17:01,345 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 06:17:01,345 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 06:17:01,345 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 59, period_sec: 60
+2024-05-25 06:17:01,345 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 06:17:01,345 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:01,345 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:01,345 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:01,345 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:01,345 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:17:02,371 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:17:02,371 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 06:17:02,371 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:17:02,371 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 06:17:02,371 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:17:24,234 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:17:24,234 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 06:17:24,234 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:17:24,234 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:17:24,240 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 06:17:24,240 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 06:17:25,857 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 06:17:25,857 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 06:17:25,857 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 06:17:25,857 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000001
+2024-05-25 06:17:25,857 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 35, period_sec: 60
+2024-05-25 06:17:25,857 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2555, period_sec: 3600
+2024-05-25 06:17:25,857 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 06:17:25,857 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 06:17:25,857 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 35, period_sec: 60
+2024-05-25 06:17:25,857 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 06:17:25,857 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:25,857 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:25,857 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:25,857 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:25,857 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:17:26,877 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:17:26,877 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 06:17:26,877 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:17:26,877 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 06:17:26,877 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:17:36,879 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000006
+2024-05-25 06:17:36,879 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000002
+2024-05-25 06:17:37,910 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000002 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:17:37,910 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000002
+2024-05-25 06:17:37,910 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:17:37,910 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000007, start_msec: 10000, period_msec: 10000
+2024-05-25 06:17:37,910 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:17:47,922 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000007
+2024-05-25 06:17:47,922 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000003
+2024-05-25 06:17:48,953 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000003 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 06:17:48,953 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000003
+2024-05-25 06:17:48,953 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:17:48,953 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000008, start_msec: 10000, period_msec: 10000
+2024-05-25 06:17:48,953 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 06:17:59,171 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:17:59,171 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 06:17:59,171 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:17:59,171 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:17:59,202 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 06:17:59,202 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 06:18:00,765 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 06:18:00,765 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 06:18:00,765 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 50401, fd: 700, handle: CCCCCC00
+2024-05-25 06:18:00,765 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  25.11.248.206 : port : 4112 : unique id : 0000000002
+2024-05-25 06:18:00,765 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 60, period_sec: 60
+2024-05-25 06:18:00,765 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2520, period_sec: 3600
+2024-05-25 06:18:00,765 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 06:18:00,765 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 06:18:00,765 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 60, period_sec: 60
+2024-05-25 06:18:00,765 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 06:18:00,765 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:18:00,765 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:18:00,765 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 25.11.248.206 : unique id : 0000000002
+2024-05-25 06:18:00,765 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:18:00,765 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:18:00,765 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (25.11.248.206 : 4112) %%%%%
+
+
+2024-05-25 06:18:00,765 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:23:17,667 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:23:17,667 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 06:23:17,683 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:23:17,683 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:23:17,683 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 06:23:17,683 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 06:23:19,222 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 06:23:19,222 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 06:23:19,222 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 50401, fd: 704, handle: CCCCCC00
+2024-05-25 06:23:19,222 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  25.11.248.206 : port : 4112 : unique id : 0000000002
+2024-05-25 06:23:19,222 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 41, period_sec: 60
+2024-05-25 06:23:19,222 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2201, period_sec: 3600
+2024-05-25 06:23:19,222 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 06:23:19,222 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 06:23:19,222 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 41, period_sec: 60
+2024-05-25 06:23:19,222 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 06:23:19,222 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:23:19,222 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:23:19,222 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 25.11.248.206 : unique id : 0000000002
+2024-05-25 06:23:19,222 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:23:19,222 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (25.11.248.206 : 4112) %%%%%
+
+
+2024-05-25 06:23:19,222 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:23:19,222 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 07:53:52,152 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 07:53:52,168 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 07:53:52,168 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 07:53:52,168 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 07:53:52,168 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 07:53:52,168 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 07:53:53,871 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 07:53:53,871 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 07:53:53,871 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 50401, fd: 700, handle: CCCCCC00
+2024-05-25 07:53:53,871 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  25.11.248.206 : port : 4112 : unique id : 0000000002
+2024-05-25 07:53:53,871 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 7, period_sec: 60
+2024-05-25 07:53:53,871 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 367, period_sec: 3600
+2024-05-25 07:53:53,871 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 07:53:53,871 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 07:53:53,871 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 7, period_sec: 60
+2024-05-25 07:53:53,871 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 07:53:53,887 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 07:53:53,887 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 07:53:53,887 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 07:53:53,887 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 25.11.248.206 : unique id : 0000000002
+2024-05-25 07:53:53,887 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 07:53:53,887 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 07:53:53,887 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (25.11.248.206 : 4112) %%%%%
+
+
+2024-05-25 08:10:07,751 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 08:10:07,751 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 08:10:07,751 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 08:10:07,751 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 08:10:07,751 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 08:10:07,751 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 08:10:09,235 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 08:10:09,235 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 08:10:09,235 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 50401, fd: 692, handle: CCCCCC00
+2024-05-25 08:10:09,235 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  127.0.0.1 : port : 4112 : unique id : 0000000002
+2024-05-25 08:10:09,235 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 51, period_sec: 60
+2024-05-25 08:10:09,235 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2991, period_sec: 3600
+2024-05-25 08:10:09,235 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 08:10:09,235 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 08:10:09,235 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 51, period_sec: 60
+2024-05-25 08:10:09,235 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 08:10:09,235 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:10:09,235 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:10:09,235 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 127.0.0.1 : unique id : 0000000002
+2024-05-25 08:10:09,235 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:10:09,235 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:10:09,235 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (127.0.0.1 : 4112) %%%%%
+
+
+2024-05-25 08:10:09,235 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 08:16:45,311 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 08:16:45,327 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 08:16:45,327 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 08:16:45,327 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 08:16:45,327 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 08:16:45,327 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 08:16:46,827 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 08:16:46,827 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 08:16:46,827 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 50401, fd: 684, handle: CCCCCC00
+2024-05-25 08:16:46,827 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  25.11.248.206 : port : 4112 : unique id : 0000000002
+2024-05-25 08:16:46,827 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 14, period_sec: 60
+2024-05-25 08:16:46,827 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 2594, period_sec: 3600
+2024-05-25 08:16:46,827 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 08:16:46,827 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 08:16:46,827 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 14, period_sec: 60
+2024-05-25 08:16:46,827 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 08:16:46,827 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:16:46,827 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:16:46,827 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 25.11.248.206 : unique id : 0000000002
+2024-05-25 08:16:46,827 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:16:46,827 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:16:46,827 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (25.11.248.206 : 4112) %%%%%
+
+
+2024-05-25 08:16:46,827 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 08:33:53,355 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 08:33:53,355 INFO  [             Log.cpp :    86] - CONNECTED > 25.11.248.206 : 600 : 1 : 1 : 43
+2024-05-25 08:34:38,892 INFO  [ LogInOutManager.cpp :    35] - add data : userIndex[1] userId[root] charIndex[2] charName[Test01]
+2024-05-25 08:36:43,036 INFO  [ LogInOutManager.cpp :    50] - del data : userIndex[1]
+2024-05-25 08:47:41,239 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000001 : reason : The network connection was aborted by the local system
+2024-05-25 08:47:41,239 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000002 : reason : The network connection was aborted by the local system
+2024-05-25 08:47:41,239 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 08:47:41,239 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000002
+2024-05-25 08:47:41,239 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 08:47:41,239 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (25.11.248.206 : 4112) %%%%%
+
+
+2024-05-25 08:47:51,252 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000006
+2024-05-25 08:47:51,252 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  25.11.248.206 : port : 4112 : unique id : 0000000004
+2024-05-25 08:47:51,252 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 08:47:51,252 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (25.11.248.206 : 4112) %%%%%
+
+
+2024-05-25 08:47:51,252 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000003
+2024-05-25 08:47:51,252 INFO  [             Log.cpp :    86] - CONNECTED > 25.11.248.206 : 600 : 1 : 1 : 43
+2024-05-25 08:48:22,883 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000004 : reason : The network connection was aborted by the local system
+2024-05-25 08:48:22,883 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 08:48:22,883 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000003 : reason : The network connection was aborted by the local system
+2024-05-25 08:48:22,883 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000003
+2024-05-25 08:48:22,899 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000007, start_msec: 10000, period_msec: 10000
+2024-05-25 08:48:22,899 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (25.11.248.206 : 4112) %%%%%
+
+
+2024-05-25 08:48:32,900 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000007
+2024-05-25 08:48:32,900 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  25.11.248.206 : port : 4112 : unique id : 0000000006
+2024-05-25 08:48:32,900 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 25.11.248.206 : unique id : 0000000006
+2024-05-25 08:48:32,900 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (25.11.248.206 : 4112) %%%%%
+
+
+2024-05-25 08:48:32,900 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000005
+2024-05-25 08:48:32,900 INFO  [             Log.cpp :    86] - CONNECTED > 25.11.248.206 : 600 : 1 : 1 : 43
+2024-05-25 08:55:27,644 INFO  [ LogInOutManager.cpp :    35] - add data : userIndex[1] userId[root] charIndex[2] charName[Test01]
+2024-05-25 09:25:21,791 INFO  [ LogInOutManager.cpp :    50] - del data : userIndex[1]
+2024-05-25 09:28:59,017 INFO  [ LogInOutManager.cpp :    35] - add data : userIndex[1] userId[root] charIndex[2] charName[Test01]
+2024-05-25 09:30:32,051 INFO  [ LogInOutManager.cpp :    50] - del data : userIndex[1]
+2024-05-25 09:33:43,422 INFO  [ LogInOutManager.cpp :    35] - add data : userIndex[1] userId[root] charIndex[1] charName[Root]
+2024-05-25 09:39:28,645 INFO  [ LogInOutManager.cpp :    50] - del data : userIndex[1]
+2024-05-25 09:39:41,746 INFO  [ LogInOutManager.cpp :    35] - add data : userIndex[1] userId[root] charIndex[1] charName[Root]
+2024-05-25 09:41:10,600 INFO  [ LogInOutManager.cpp :    50] - del data : userIndex[1]
+2024-05-25 09:41:15,565 INFO  [ LogInOutManager.cpp :    35] - add data : userIndex[1] userId[root] charIndex[2] charName[Test01]
+2024-05-25 09:41:44,419 INFO  [ LogInOutManager.cpp :    50] - del data : userIndex[1]
+2024-05-25 09:43:43,915 INFO  [ LogInOutManager.cpp :    35] - add data : userIndex[1] userId[root] charIndex[1] charName[Root]
+2024-05-25 09:49:39,968 INFO  [ LogInOutManager.cpp :    50] - del data : userIndex[1]
+2024-05-25 16:47:18,539 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000005 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 16:47:18,539 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000005
+2024-05-25 16:48:31,924 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 16:48:31,924 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 16:48:31,924 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 16:48:31,924 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 16:48:31,924 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 16:48:31,924 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 16:48:33,658 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 16:48:33,658 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 16:48:33,658 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[50401]
+2024-05-25 16:48:33,658 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000001
+2024-05-25 16:48:33,658 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 27, period_sec: 60
+2024-05-25 16:48:33,658 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 687, period_sec: 3600
+2024-05-25 16:48:33,658 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 16:48:33,658 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 16:48:33,658 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 27, period_sec: 60
+2024-05-25 16:48:33,658 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 16:48:33,658 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:48:33,658 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:48:33,658 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:48:33,658 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:48:33,658 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 16:48:34,721 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000001 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 16:48:34,721 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000001
+2024-05-25 16:48:34,721 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 16:48:34,721 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000006, start_msec: 10000, period_msec: 10000
+2024-05-25 16:48:34,721 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 16:48:44,725 INFO  [   timer_session.cpp :    44] - bnf - delete timer. handle: 2000006
+2024-05-25 16:48:44,725 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  20.197.225.254 : port : 4112 : unique id : 0000000002
+2024-05-25 16:48:45,757 ERROR [rnsocketioserviceTcp.cpp :   467] - bnf connect failed - ip :  : unique id : 0000000002 : reason : No connection could be made because the target machine actively refused it
+2024-05-25 16:48:45,757 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip :  : unique id : 0000000002
+2024-05-25 16:48:45,757 FATAL [MessengerInSubHelper.cpp :   105] - %%%%% Can't connect to Messenger server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 16:48:45,757 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000007, start_msec: 10000, period_msec: 10000
+2024-05-25 16:48:45,757 FATAL [MessengerInSubHelper.cpp :    86] - %%%%% Disconnected from Messenger Server (20.197.225.254 : 4112) %%%%%
+
+
+2024-05-25 16:52:01,692 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 16:52:01,692 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- SubHelper (USA / DEBUG / ) start ------------------------
+2024-05-25 16:52:01,692 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 16:52:01,692 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 16:52:01,708 INFO  [             Log.cpp :    86] - SYSTEM > Load settings....
+2024-05-25 16:52:01,708 INFO  [             Log.cpp :    86] - SYSTEM > Load TradeAgent....
+2024-05-25 16:52:03,426 INFO  [             Log.cpp :    86] - SYSTEM > Finding player limit.
+2024-05-25 16:52:03,426 INFO  [             Log.cpp :    86] - SYSTEM > Entering game loop.
+2024-05-25 16:52:03,426 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 50401, fd: 712, handle: CCCCCC00
+2024-05-25 16:52:03,426 DEBUG [rnsocketioserviceTcp.cpp :    83] - bnf async connecting - ip(to) :  25.11.248.206 : port : 4112 : unique id : 0000000002
+2024-05-25 16:52:03,426 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000000, start_sec: 57, period_sec: 60
+2024-05-25 16:52:03,426 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000001, start_sec: 477, period_sec: 3600
+2024-05-25 16:52:03,426 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000002, start_msec: 1000, period_msec: 1000
+2024-05-25 16:52:03,426 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000003, start_msec: 1000, period_msec: 1000
+2024-05-25 16:52:03,426 INFO  [   timer_session.cpp :    70] - bnf - create timer. handle: 2000004, start_sec: 57, period_sec: 60
+2024-05-25 16:52:03,426 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000005, start_msec: 11000, period_msec: 11000
+2024-05-25 16:52:03,426 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:52:03,426 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:52:03,426 INFO  [rnsocketioserviceTcp.cpp :   447] - bnf connected - ip : 25.11.248.206 : unique id : 0000000002
+2024-05-25 16:52:03,426 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:52:03,426 INFO  [MessengerInSubHelper.cpp :    99] - %%%%% connected to Messenger server (25.11.248.206 : 4112) %%%%%
+
+
+2024-05-25 16:52:03,426 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:52:03,426 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 16:52:14,196 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 16:52:14,196 INFO  [             Log.cpp :    86] - CONNECTED > 25.11.248.206 : 600 : 1 : 1 : 43
+2024-05-25 16:55:58,703 INFO  [ LogInOutManager.cpp :    35] - add data : userIndex[1] userId[root] charIndex[3] charName[DanielBaru]
+2024-05-25 17:07:09,390 INFO  [             Log.cpp :    86] - DB INSERT TO TITLE LIST >  : CHAR_INDEX : 3 : TITLE_INDEX : 23 : CUSTOM_TITLE_INDEX : -1
+2024-05-25 17:40:57,748 INFO  [ LogInOutManager.cpp :    50] - del data : userIndex[1]

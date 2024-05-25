@@ -1,0 +1,65 @@
+[Server]
+Number=1
+SubNumber=1
+;IP=64.15.147.198
+;IP=72.55.177.160
+IP=174.142.117.49
+Port=4011
+AllowExternalIP=TRUE
+;NON_PK=TRUE
+
+
+[Data DB]
+;IP=64.15.147.198
+;IP=72.55.177.160
+;IP=174.142.117.49
+IP=localhost
+DBName=newproject_data
+User=lctest_db
+Password=WU44Ac!ech
+
+
+[Char DB]
+;IP=64.15.147.198
+;IP=72.55.177.160
+;IP=174.142.117.49
+IP=localhost
+DBName=newproject_db
+User=lctest_db
+Password=WU44Ac!ech
+
+[Catalog DB]
+;IP=64.15.147.198
+;IP=72.55.177.160
+;IP=174.142.117.49
+IP=localhost
+DBName=newproject_data
+User=lctest_db
+Password=WU44Ac!ech
+
+
+
+[Connector Server]
+;IP=64.15.147.198
+;IP=72.55.177.160
+IP=174.142.117.49
+Port=4006
+
+
+[Messenger Server]
+;IP=64.15.147.198
+;IP=72.55.177.160
+IP=174.142.117.49
+Port=4000
+
+
+[Helper Server]
+;IP=64.15.147.198
+;IP=72.55.177.160
+IP=174.142.117.49
+Port=4100
+
+[SubHelper Server]
+IP=174.142.117.49
+Port=4099
+

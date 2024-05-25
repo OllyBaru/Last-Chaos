@@ -1,0 +1,39 @@
+[Server]
+Number=1
+MaxSubServer=3
+IP=25.11.248.206
+Port=4006
+
+
+
+
+[GameServer]
+ForceEx=1
+EX_IP_1=127.0.0.1
+EX_PORT_1=4101
+EX_IP_2=127.0.0.1
+EX_PORT_2=4101
+EX_IP_3=127.0.0.1
+EX_PORT_3=4101
+
+[User DB]
+IP=127.0.0.1
+DBName=ep4_db_auth
+User=test
+Password=123
+
+[Auth DB]
+IP=127.0.0.1
+DBName=ep4_db_auth
+User=test
+Password=123
+
+[Event DB]
+IP=127.0.0.1
+DBName=ep4_db_auth
+User=test
+Password=123
+
+[Billing Server]
+IP=127.0.0.1
+Port=8888

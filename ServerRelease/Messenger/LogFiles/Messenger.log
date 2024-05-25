@@ -1,0 +1,524 @@
+2024-05-25 05:26:02,918 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:26:02,919 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 05:26:02,919 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:26:02,919 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:26:02,919 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 05:26:02,920 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 05:26:02,920 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 05:26:02,921 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 4112, fd: 576, handle: CCCCCC00
+2024-05-25 05:26:02,922 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 0, fd: 584, handle: CCCCCC00
+2024-05-25 05:26:02,922 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 0, fd: 592, handle: CCCCCC00
+2024-05-25 05:26:02,922 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000000, start_msec: 1000, period_msec: 1000
+2024-05-25 05:26:02,923 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:26:02,923 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:26:02,923 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:26:02,923 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:26:02,923 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 05:26:03,036 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 127.0.0.1 : unique id : 0000000001
+2024-05-25 05:26:03,036 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[127.0.0.1]
+2024-05-25 05:26:03,036 INFO  [      Descriptor.cpp :   114] - CONNECTED 127.0.0.1 600 999 0 0
+2024-05-25 05:26:04,615 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[127.0.0.1]
+2024-05-25 05:26:04,615 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 127.0.0.1 : unique id : 0000000004
+2024-05-25 05:27:47,617 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[127.0.0.1]
+2024-05-25 05:27:47,617 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 127.0.0.1 : unique id : 0000000005
+2024-05-25 05:27:47,617 INFO  [      Descriptor.cpp :   114] - CONNECTED 127.0.0.1 600 999 0 0
+2024-05-25 05:27:49,311 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 127.0.0.1 : unique id : 0000000006
+2024-05-25 05:27:49,311 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[127.0.0.1]
+2024-05-25 05:27:49,374 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 127.0.0.1 : unique id : 0000000001 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 05:27:49,374 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 127.0.0.1 : unique id : 0000000005 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 05:27:49,374 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 127.0.0.1 : unique id : 0000000001
+2024-05-25 05:27:49,374 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 127.0.0.1 : unique id : 0000000005
+2024-05-25 05:27:49,374 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[127.0.0.1]
+2024-05-25 05:27:49,374 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[127.0.0.1]
+2024-05-25 05:27:49,421 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 127.0.0.1 : unique id : 0000000004 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 05:27:49,421 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 127.0.0.1 : unique id : 0000000004
+2024-05-25 05:27:49,421 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 127.0.0.1 : unique id : 0000000006 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 05:27:49,421 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 127.0.0.1 : unique id : 0000000006
+2024-05-25 05:27:49,436 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[127.0.0.1]
+2024-05-25 05:27:49,436 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[127.0.0.1]
+2024-05-25 05:46:27,554 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:46:27,554 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 05:46:27,554 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:46:27,554 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:46:27,554 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 05:46:27,554 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 05:46:27,554 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 05:46:27,554 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 05:46:54,105 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:46:54,105 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 05:46:54,105 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:46:54,105 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:46:54,105 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 05:46:54,106 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 05:46:54,106 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 05:46:54,107 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 05:47:10,153 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:47:10,153 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 05:47:10,153 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:47:10,153 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:47:10,153 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 05:47:10,153 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 05:47:10,153 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 05:47:10,153 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 05:47:31,944 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:47:31,945 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 05:47:31,945 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:47:31,945 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:47:31,945 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 05:47:31,945 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 05:47:31,946 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 05:47:31,947 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 05:48:38,867 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:48:38,868 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 05:48:38,868 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:48:38,868 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:48:38,868 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 05:48:38,868 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 05:48:38,868 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 05:48:38,870 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 4112, fd: 572, handle: CCCCCC00
+2024-05-25 05:48:38,870 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 0, fd: 580, handle: CCCCCC00
+2024-05-25 05:48:38,870 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 0, fd: 588, handle: CCCCCC00
+2024-05-25 05:48:38,870 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000000, start_msec: 1000, period_msec: 1000
+2024-05-25 05:48:38,872 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:48:38,872 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:48:38,872 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:48:38,873 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:48:38,873 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 05:48:39,013 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 127.0.0.1 : unique id : 0000000001
+2024-05-25 05:48:39,013 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[127.0.0.1]
+2024-05-25 05:48:39,019 INFO  [      Descriptor.cpp :   114] - CONNECTED 127.0.0.1 600 999 0 0
+2024-05-25 05:48:40,494 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[127.0.0.1]
+2024-05-25 05:48:40,494 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 127.0.0.1 : unique id : 0000000004
+2024-05-25 05:49:11,194 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 127.0.0.1 : unique id : 0000000001 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 05:49:11,194 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 127.0.0.1 : unique id : 0000000001
+2024-05-25 05:49:11,194 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[127.0.0.1]
+2024-05-25 05:49:11,241 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 127.0.0.1 : unique id : 0000000004 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 05:49:11,241 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 127.0.0.1 : unique id : 0000000004
+2024-05-25 05:49:11,241 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[127.0.0.1]
+2024-05-25 05:49:52,657 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 05:49:52,657 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 05:49:52,657 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 05:49:52,657 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 05:49:52,658 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 05:49:52,658 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 05:49:52,658 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 05:49:52,659 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 4112, fd: 564, handle: CCCCCC00
+2024-05-25 05:49:52,659 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 0, fd: 572, handle: CCCCCC00
+2024-05-25 05:49:52,659 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 0, fd: 580, handle: CCCCCC00
+2024-05-25 05:49:52,659 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000000, start_msec: 1000, period_msec: 1000
+2024-05-25 05:49:52,666 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:49:52,666 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:49:52,666 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:49:52,666 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 05:49:52,666 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 05:49:52,709 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 127.0.0.1 : unique id : 0000000001
+2024-05-25 05:49:52,709 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[127.0.0.1]
+2024-05-25 05:49:52,713 INFO  [      Descriptor.cpp :   114] - CONNECTED 127.0.0.1 600 999 0 0
+2024-05-25 05:49:54,224 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[127.0.0.1]
+2024-05-25 05:49:54,224 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 127.0.0.1 : unique id : 0000000004
+2024-05-25 05:58:21,792 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 127.0.0.1 : unique id : 0000000001 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 05:58:21,792 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 127.0.0.1 : unique id : 0000000001
+2024-05-25 05:58:21,792 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[127.0.0.1]
+2024-05-25 05:58:21,839 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 127.0.0.1 : unique id : 0000000004 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 05:58:21,839 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 127.0.0.1 : unique id : 0000000004
+2024-05-25 05:58:21,839 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[127.0.0.1]
+2024-05-25 06:11:40,130 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:11:40,130 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 06:11:40,130 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:11:40,130 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:11:40,130 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 06:11:40,130 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 06:11:40,130 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 06:11:40,130 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 06:12:32,570 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:12:32,570 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 06:12:32,570 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:12:32,570 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:12:32,570 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 06:12:32,570 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 06:12:32,570 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 06:12:32,570 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 06:13:07,260 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:13:07,260 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 06:13:07,260 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:13:07,261 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:13:07,261 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 06:13:07,261 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 06:13:07,261 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 06:13:07,262 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 06:14:38,374 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:14:38,374 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 06:14:38,374 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:14:38,374 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:14:38,374 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 06:14:38,374 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 06:14:38,374 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 06:14:38,374 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 06:15:21,089 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:15:21,089 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 06:15:21,089 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:15:21,089 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:15:21,089 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 06:15:21,090 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 06:15:21,090 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 06:15:21,091 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 06:15:52,372 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:15:52,372 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 06:15:52,372 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:15:52,372 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:15:52,372 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 06:15:52,372 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 06:15:52,372 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 06:15:52,372 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 06:16:59,687 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:16:59,687 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 06:16:59,687 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:16:59,687 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:16:59,687 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 06:16:59,687 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 06:16:59,687 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 06:16:59,687 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 06:17:24,302 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:17:24,302 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 06:17:24,302 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:17:24,302 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:17:24,302 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 06:17:24,302 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 06:17:24,302 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 06:17:24,317 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 06:17:59,143 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:17:59,144 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 06:17:59,144 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:17:59,144 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:17:59,144 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 06:17:59,144 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 06:17:59,145 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 06:17:59,146 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 4112, fd: 560, handle: CCCCCC00
+2024-05-25 06:17:59,146 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 0, fd: 576, handle: CCCCCC00
+2024-05-25 06:17:59,147 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 0, fd: 584, handle: CCCCCC00
+2024-05-25 06:17:59,147 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000000, start_msec: 1000, period_msec: 1000
+2024-05-25 06:17:59,148 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:59,148 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:59,150 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:59,151 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:17:59,151 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:17:59,234 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 06:17:59,234 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 06:17:59,234 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 999 0 0
+2024-05-25 06:18:00,765 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 06:18:00,765 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 06:23:16,268 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000001 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 06:23:16,268 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 06:23:16,268 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 06:23:16,315 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000004 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 06:23:16,315 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 06:23:16,315 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 06:23:17,596 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 06:23:17,596 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 06:23:17,596 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 06:23:17,596 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 06:23:17,596 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 06:23:17,596 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 06:23:17,596 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 06:23:17,596 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 4112, fd: 572, handle: CCCCCC00
+2024-05-25 06:23:17,596 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 0, fd: 580, handle: CCCCCC00
+2024-05-25 06:23:17,596 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 0, fd: 520, handle: CCCCCC00
+2024-05-25 06:23:17,596 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000000, start_msec: 1000, period_msec: 1000
+2024-05-25 06:23:17,596 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:23:17,596 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:23:17,596 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:23:17,596 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 06:23:17,596 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 06:23:17,713 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 06:23:17,713 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 06:23:17,721 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 999 0 0
+2024-05-25 06:23:19,222 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 06:23:19,222 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 06:57:51,950 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000001 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 06:57:51,950 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 06:57:51,950 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 06:57:51,997 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000004 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 06:57:51,997 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 06:57:51,997 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 07:53:46,449 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 07:53:46,465 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 07:53:46,465 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 07:53:46,465 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 07:53:46,465 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 07:53:46,465 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 07:53:46,465 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 07:53:46,465 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 4112, fd: 568, handle: CCCCCC00
+2024-05-25 07:53:46,465 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 0, fd: 576, handle: CCCCCC00
+2024-05-25 07:53:46,465 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 0, fd: 584, handle: CCCCCC00
+2024-05-25 07:53:46,465 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000000, start_msec: 1000, period_msec: 1000
+2024-05-25 07:53:46,465 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 07:53:46,465 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 07:53:46,465 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 07:53:46,465 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 07:53:46,465 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 07:53:53,871 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 07:53:53,871 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 07:53:57,959 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 07:53:57,959 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 07:53:57,965 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 999 0 0
+2024-05-25 08:04:33,949 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000004 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 08:04:33,949 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 08:04:33,949 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 08:04:36,670 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000001 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 08:04:36,670 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 08:04:36,670 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 08:10:02,625 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 08:10:02,625 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 08:10:02,625 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 08:10:02,625 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 08:10:02,625 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 08:10:02,625 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 08:10:02,625 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 08:10:02,625 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 4112, fd: 572, handle: CCCCCC00
+2024-05-25 08:10:02,625 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 0, fd: 580, handle: CCCCCC00
+2024-05-25 08:10:02,625 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 127.0.0.1, port: 0, fd: 588, handle: CCCCCC00
+2024-05-25 08:10:02,625 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000000, start_msec: 1000, period_msec: 1000
+2024-05-25 08:10:02,625 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:10:02,625 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:10:02,625 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:10:02,625 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:10:02,625 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 08:10:02,672 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[127.0.0.1]
+2024-05-25 08:10:02,672 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 127.0.0.1 : unique id : 0000000001
+2024-05-25 08:10:02,672 INFO  [      Descriptor.cpp :   114] - CONNECTED 127.0.0.1 600 999 0 0
+2024-05-25 08:10:09,235 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[127.0.0.1]
+2024-05-25 08:10:09,235 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 127.0.0.1 : unique id : 0000000004
+2024-05-25 08:13:40,512 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 127.0.0.1 : unique id : 0000000004 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 08:13:40,512 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 127.0.0.1 : unique id : 0000000004
+2024-05-25 08:13:40,512 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[127.0.0.1]
+2024-05-25 08:16:41,283 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 08:16:41,283 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 08:16:41,283 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 08:16:41,283 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 08:16:41,283 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 08:16:41,283 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 08:16:41,283 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 08:16:41,283 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 4112, fd: 560, handle: CCCCCC00
+2024-05-25 08:16:41,283 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 0, fd: 568, handle: CCCCCC00
+2024-05-25 08:16:41,283 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 0, fd: 576, handle: CCCCCC00
+2024-05-25 08:16:41,283 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000000, start_msec: 1000, period_msec: 1000
+2024-05-25 08:16:41,283 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:16:41,283 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:16:41,283 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:16:41,283 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 08:16:41,283 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 08:16:43,452 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 08:16:43,452 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 08:16:43,452 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 999 0 0
+2024-05-25 08:16:46,827 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 08:16:46,827 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 08:33:53,355 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 08:33:53,355 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000005
+2024-05-25 08:33:53,355 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 1 1 43
+2024-05-25 08:47:41,239 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000005 : reason : The network connection was aborted by the local system
+2024-05-25 08:47:41,239 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000005
+2024-05-25 08:47:41,239 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000001 : reason : The network connection was aborted by the local system
+2024-05-25 08:47:41,239 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 08:47:41,239 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 08:47:41,239 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 08:47:41,239 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000004 : reason : The network connection was aborted by the local system
+2024-05-25 08:47:41,239 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 08:47:41,239 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 08:47:46,245 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000006
+2024-05-25 08:47:46,245 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 08:47:46,245 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 999 0 0
+2024-05-25 08:47:51,252 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000007
+2024-05-25 08:47:51,252 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 08:47:51,252 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000008
+2024-05-25 08:47:51,252 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 08:47:51,252 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 1 1 43
+2024-05-25 08:48:22,883 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000007 : reason : The network connection was aborted by the local system
+2024-05-25 08:48:22,883 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000007
+2024-05-25 08:48:22,883 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000006 : reason : The network connection was aborted by the local system
+2024-05-25 08:48:22,883 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000006
+2024-05-25 08:48:22,883 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000008 : reason : The network connection was aborted by the local system
+2024-05-25 08:48:22,883 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000008
+2024-05-25 08:48:22,883 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 08:48:22,883 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 08:48:22,883 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 08:48:27,900 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000009
+2024-05-25 08:48:27,900 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 08:48:27,900 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 999 0 0
+2024-05-25 08:48:32,900 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000010
+2024-05-25 08:48:32,900 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 08:48:32,900 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000011
+2024-05-25 08:48:32,900 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 08:48:32,900 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 1 1 43
+2024-05-25 16:47:18,539 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000011 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 16:47:18,539 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000011
+2024-05-25 16:47:18,539 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 16:47:18,743 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000009 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 16:47:18,743 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000009
+2024-05-25 16:47:18,743 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 16:47:18,789 INFO  [rnsocketioserviceTcp.cpp :   482] - bnf HandleReadHeader error - ip : 25.11.248.206 : unique id : 0000000010 : reason : An existing connection was forcibly closed by the remote host
+2024-05-25 16:47:18,789 INFO  [rnsocketioserviceTcp.cpp :   687] - bnf closed - ip : 25.11.248.206 : unique id : 0000000010
+2024-05-25 16:47:18,789 INFO  [      Descriptor.cpp :   141] - CLIENT DISCONNECTED... IP[25.11.248.206]
+2024-05-25 16:48:31,940 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 16:48:31,940 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 16:48:31,940 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 16:48:31,940 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 16:48:31,940 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 16:48:31,940 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 16:48:31,940 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 16:48:31,940 ERROR [listen_sessionTcp.cpp :    55] - bnf - acceptor_.bind error. error[The requested address is not valid in its context] / host[20.197.225.254] / port[4112]
+2024-05-25 16:52:01,583 INFO  [ PrintExcuteInfo.cpp :    39] - 
+
+
+
+2024-05-25 16:52:01,583 INFO  [ PrintExcuteInfo.cpp :    41] - -------------------------- Messenger (USA / DEBUG / ) start ------------------------
+2024-05-25 16:52:01,583 INFO  [ PrintExcuteInfo.cpp :    42] - 
+
+
+
+2024-05-25 16:52:01,583 INFO  [ PrintExcuteInfo.cpp :    94] - MYSQL CLIENT VERSION : 5.1.72
+2024-05-25 16:52:01,583 INFO  [          Server.cpp :    61] - Load setting file....
+2024-05-25 16:52:01,583 INFO  [          Server.cpp :    83] - SYSTEM > Load Recommend Server Data -1
+2024-05-25 16:52:01,583 INFO  [          Server.cpp :    85] - SYSTEM > Load Golden Ball Data
+2024-05-25 16:52:01,583 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 4112, fd: 572, handle: CCCCCC00
+2024-05-25 16:52:01,583 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 0, fd: 580, handle: CCCCCC00
+2024-05-25 16:52:01,583 INFO  [listen_sessionTcp.cpp :    83] - bnf - open listen socket. ip: 25.11.248.206, port: 0, fd: 588, handle: CCCCCC00
+2024-05-25 16:52:01,583 INFO  [   timer_session.cpp :    39] - bnf - create timer. handle: 2000000, start_msec: 1000, period_msec: 1000
+2024-05-25 16:52:01,583 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:52:01,583 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:52:01,583 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:52:01,583 INFO  [             bnf.cpp :   235] - bnf - start worker therad.
+2024-05-25 16:52:01,583 INFO  [             bnf.cpp :   238] - bnf - running.
+2024-05-25 16:52:01,833 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000001
+2024-05-25 16:52:01,833 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 16:52:01,833 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 999 0 0
+2024-05-25 16:52:03,426 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000004
+2024-05-25 16:52:03,426 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 16:52:14,196 INFO  [          Server.cpp :   136] - CLIENT CONNECTED... IP[25.11.248.206]
+2024-05-25 16:52:14,196 INFO  [listen_sessionTcp.cpp :   105] - bnf accepted - ip : 25.11.248.206 : unique id : 0000000005
+2024-05-25 16:52:14,196 INFO  [      Descriptor.cpp :   114] - CONNECTED 25.11.248.206 600 1 1 43

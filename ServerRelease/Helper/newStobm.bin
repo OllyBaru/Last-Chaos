@@ -1,0 +1,10 @@
+[Server]
+Number=1
+IP=25.11.248.206
+Port=3000
+
+[Char DB]
+IP=127.0.0.1
+DBName=ep4_db
+User=test
+Password=123

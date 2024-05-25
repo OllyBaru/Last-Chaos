@@ -1,0 +1,28 @@
+[Server]
+Number=1
+IP=25.11.248.206
+Port=50401
+UserPort=4102
+MAXSIZE=1000
+
+[Messenger Server]
+IP=25.11.248.206
+Port=4112
+
+[Data DB]
+IP=127.0.0.1
+DBName=ep4_data
+User=test
+Password=123
+
+[Char DB]
+IP=127.0.0.1
+DBName=ep4_db
+User=test
+Password=123
+
+[Post DB]
+IP=127.0.0.1
+DBName=ep4_post
+User=test
+Password=123
