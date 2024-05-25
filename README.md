@@ -1,14 +1,14 @@
-# Shaiya Episode 6
+# Last Chaos 6
 
 An open-source effort to make episode 5 servers compatible with episode 6 clients.
 
 ## Environment
 
-Windows 10
+Windows Server 2016
 
-Visual Studio 2022
+Visual Studio 2010
 
-C++ 23
+C++ 10
 
 ## Prerequisites
 
